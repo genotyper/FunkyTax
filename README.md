@@ -7,7 +7,7 @@
 ##Then,
 
 ###library(devtools)
-###install_github("genotyper/FunkYtax")
+###install_github("genotyper/Funkytax")
 
 ##To see a summary of package contents including functions and example data
 

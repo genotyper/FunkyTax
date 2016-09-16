@@ -1,0 +1,20 @@
+Package: FunkyTax
+Type: Package
+Title: Metagenome Functional and Taxonomic Relationships
+Version: 1.0
+Date: 2016-09-02
+Author: Caleb D. Phillips
+Maintainer: Caleb D. Phillips <caleb.phillips@ttu.edu>
+Depends:
+	R (>= 3.0)
+Imports:
+	reshape2,
+	vegan,
+	ggplot2,
+	doSNOW,
+	permute,
+	stats,
+	snow,
+	foreach
+Description: Quantification of relationships between metagenome function abundances across a factor of interest and the microbiome community composition contributing to each function's frequency.
+License: GPL-2

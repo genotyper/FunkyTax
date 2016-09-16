@@ -2,7 +2,7 @@
 \alias{dds}
 \docType{data}
 \title{
-DESeq Example Results
+DESeq2 Example Results
 }
 \description{
 Results of generalized linear modeling as implemented in DESeq2 (Love et al. 2014) applied to metagenome function counts.

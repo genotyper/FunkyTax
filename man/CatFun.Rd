@@ -2,10 +2,10 @@
 \alias{CatFun}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{CatFun
-Frequency and community composition based catagorization of metagenome functions
+Function frequency and lineage contribution based catagorization of metagenome functional community categories
 }
 \description{
-CatFun takes the results of DESeq (Love et al. 2014) and of TaFuR {FunkyTax} to categorize functions as conserved, equivalent, divergent, or enhanced following Phillips et al. (submitted).  These categories describe how differences in metagenome functional repetoire between two or more factor levels relate to differences in underlying microbiome community structure.
+CatFun takes the results of DESeq2 (Love et al. 2014) and of TaFuR {FunkyTax} to categorize functions as conserved, equivalent, divergent, or enhanced following Phillips et al. (submitted).  These categories describe how differences in metagenome functional repetoire between two or more factor levels relate to differences in underlying microbiome community structure.
 }
 \usage{
 CatFun(tf, ds, alpha = 0.05)
